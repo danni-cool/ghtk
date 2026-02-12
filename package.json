@@ -1,0 +1,31 @@
+{
+  "name": "ghtk",
+  "version": "0.0.1",
+  "description": "One-click setup for GitHub Packages npm registry auth. No more 403 errors when installing private packages locally.",
+  "main": "index.js",
+  "bin": {
+    "ghtk": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "node test/cli.test.js"
+  },
+  "keywords": [
+    "github",
+    "packages",
+    "npm",
+    "registry",
+    "auth",
+    "gh"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danni-cool/github-packge-ght.git"
+  },
+  "homepage": "https://github.com/danni-cool/github-packge-ght#readme",
+  "files": [
+    "bin",
+    "lib",
+    "README.md"
+  ]
+}
