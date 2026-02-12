@@ -12,12 +12,6 @@ One-click setup for GitHub Packages npm registry auth. No more annoying 403 erro
 ## Install
 
 ```bash
-npm install -g ghtk
-```
-
-Or use directly with npx:
-
-```bash
 npx ghtk
 ```
 
